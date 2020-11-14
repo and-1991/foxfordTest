@@ -1,2 +1,2 @@
 # foxfordTest
-тесовое задание для FoxFord
+тестовое задание для FoxFord
